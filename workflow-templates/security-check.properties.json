@@ -1,0 +1,6 @@
+{
+  "name": "Kalaraja Security Check",
+  "description": "Reviews dependency changes on pull requests for known security risk.",
+  "iconName": "octicon shield-check",
+  "categories": ["Security"]
+}
