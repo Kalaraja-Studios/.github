@@ -1,0 +1,6 @@
+{
+  "name": "Kalaraja Web CI",
+  "description": "Baseline install, lint, test and build checks for Kalaraja web repositories.",
+  "iconName": "octicon check-circle",
+  "categories": ["JavaScript"]
+}
