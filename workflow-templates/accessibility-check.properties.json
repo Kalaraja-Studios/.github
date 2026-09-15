@@ -1,0 +1,6 @@
+{
+  "name": "Kalaraja Accessibility Check",
+  "description": "Runs repository accessibility tests as part of the Kalaraja WCAG 2.2 AA baseline.",
+  "iconName": "octicon accessibility-inset",
+  "categories": ["JavaScript"]
+}
